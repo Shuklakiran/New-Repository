@@ -1,4 +1,8 @@
 New-Repository
 ==============
 
-First Git Repositiry
+First Git Repository
+
+
+Hi,
+Demo on GitHub.
